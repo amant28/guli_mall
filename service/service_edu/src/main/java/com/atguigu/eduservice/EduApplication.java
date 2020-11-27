@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan(basePackages = {"com.atguigu"})
+@ComponentScan(basePackages = {"com.atguigu.eduservice"})
 //启动类
 public class EduApplication {
     public static void main(String[] args) {
